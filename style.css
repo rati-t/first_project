@@ -1,0 +1,92 @@
+ body {  
+ background-color: red; 
+ background-image: url("https://lh3.googleusercontent.com/7staVU7o_PBoydqZNoXc12iyBfaa9qxpDs8Mw29WS015L-X4T4QolCeoXFZO5j1jI_-3KQ-OSOcZNL4YWc_QGLWQ60tbdwmUsO9i_5hER9iBfm3OYP32vAD5o23BUkkEcHcgPfXSNQ=w2400")
+}
+
+.hoodwink {
+  color: #29563F;
+  font-size: 100px;
+  font-family: fantasy;
+  margin-top: 5px;
+}
+
+
+#divimage {
+  margin-left: 50px;
+  margin-top: 2em;
+}
+.hoodimage {
+   border-color: #29563F;
+   border-width: 10px;
+   border-style: solid;
+   border-radius: 10%;
+   width: 90%;
+}
+.line1 {
+  border-top: 5px solid;
+  color: #29563F;
+  display: block;
+}
+.divline {
+  padding: 0px 40px 0px 40px;
+}
+.story {
+  font-family: Cursive;
+  font-size: 120%;
+  text-indent: 3%;
+  margin-top: -12px;
+  margin-left: -50px;
+  color: white;
+}
+#lore {
+  font-family: fantasy;
+  text-indent: 40%;
+  font-size: 50px;
+  margin-top: 20px;
+  color: white;
+}
+#div4 {
+  padding-top: 20px;
+}
+#h2_1 {
+ font-family: fantasy;
+ color: #29563F;
+ font-size: 80px;
+}
+.skilldiv {
+  padding-top: 10px;
+}
+#acornshot {
+  border-color: #29563F;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 50%;
+  margin-left: 100px;
+  width: 192px;
+  height: 192px;
+}
+#acornshottext {
+  margin-left: 10px;
+  font-size: 300%;
+  font-family: Cursive;
+  text-align: center;
+  color: white;
+}
+#acornshotabout {
+  margin-left: 150px;
+  font-family: Cursive;
+  margin-top: -20px;
+  font-size: 120%;
+  text-indent: 3%;
+  color: white;
+}
+@media (max-width: 1366px){
+  .hoodwink {
+    text-align: center;
+  }
+}
+#divimage1 {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}

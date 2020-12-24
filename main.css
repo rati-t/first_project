@@ -102,3 +102,12 @@ font-size: 80px;
 .audio1 {
  text-align: right;
 }
+.videodiv {
+  text-align: center;
+}
+.videoframe {
+  border-width: 10px;
+  border-color: #27B327;
+  margin-top: 10px;
+  border-radius: 5%;
+}
